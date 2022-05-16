@@ -1,0 +1,78 @@
+body{
+  background-color: grey;
+}
+
+h1{
+  font-family:monospace;
+  font-weight: bold;
+  font-size: 80px;
+  color: white;
+}
+
+.main_header:hover{
+  color: Black;
+  background-color: white;
+  width: 40%;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-top-width: 10px;
+  width:3%;
+}
+
+.hover:hover{
+  border-color: Black;
+  width:5%
+}
+
+img:hover{
+  background-color: darkgrey;
+}
+
+.p1{
+  font-family:cursive;
+  font-weight: lighter;
+  font-size: 20px;
+  color: white;
+}
+
+.p2{
+  font-family:bold;
+  font-weight: bolder;
+  font-size: 20px;
+  color: white;
+}
+
+.p3{
+  font-family:fantasy;
+  font-weight: 100;
+  font-size: 20px;
+  color: white;
+}
+
+.p4{
+  font-family:sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
+  color: white;
+}
+
+.p5{
+  font-family:serif;
+  font-weight: lighter;
+  font-size: 20px;
+  color: white;
+}
+
+.egg{
+  width: 200px;
+  height: 200px ;
+}
+
+.pan{
+  width: 225px;
+  height:225px;
+}
